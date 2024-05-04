@@ -2,10 +2,14 @@ from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login, logout
 from django.contrib import messages
 from .forms import SignUpForm
+from .models import Record
 
 # Create your views here.
 
 def home(request):
+
+    # display all the records
+    records = Record.objects.all().values()
 
     # check to see if the user is logged in
 
@@ -24,7 +28,7 @@ def home(request):
             return redirect('home')
         
     else:
-        return render(request, 'home.html', {})
+        return render(request, 'home.html', {'records':records})
 
 
 def register_user(request):
