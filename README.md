@@ -104,6 +104,20 @@ The server will start on `http://localhost:8000` or `http://127.0.0.1:8000`.
 
 ## Application Snapshots
 
+![Django CRM Snapshot](https://github.com/AflaxCade/Django-CRM/blob/main/Screenshot%201.png)
+
+![Django CRM Snapshot](https://github.com/AflaxCade/Django-CRM/blob/main/Screenshot%202.png)
+
+![Django CRM Snapshot](https://github.com/AflaxCade/Django-CRM/blob/main/Screenshot%203.png)
+
+![Django CRM Snapshot](https://github.com/AflaxCade/Django-CRM/blob/main/Screenshot%204.png)
+
+![Django CRM Snapshot](https://github.com/AflaxCade/Django-CRM/blob/main/Screenshot%205.png)
+
+![Django CRM Snapshot](https://github.com/AflaxCade/Django-CRM/blob/main/Screenshot%206.png)
+
+Above is a snapshot of the Django CRM interface showcasing its features and layout.
+
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
