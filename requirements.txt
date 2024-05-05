@@ -1,6 +1,7 @@
 asgiref==3.8.1
-Django==5.0.4
+Django==4.2.11
 Faker==25.0.1
+gunicorn==22.0.0
 mysql==0.0.3
 mysql-connector-python==8.4.0
 mysqlclient==2.2.4
