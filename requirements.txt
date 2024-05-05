@@ -2,9 +2,6 @@ asgiref==3.8.1
 Django==4.2.11
 Faker==25.0.1
 gunicorn==22.0.0
-mysql==0.0.3
-mysql-connector-python==8.4.0
-mysqlclient==2.2.4
 python-dateutil==2.9.0.post0
 six==1.16.0
 sqlparse==0.5.0
